@@ -4,7 +4,7 @@ Here are some of my practice JavaScript projects built with HTML5, CSS3 and Java
 
 
 
-## [Form Validator](https://jumaed-drum-kit.netlify.app/)
+## [Drum Kit-1](https://jumaed-drum-kit.netlify.app/)
 This is a simple Drum Kit project built with HTML, CSS and Javascript. Drums can be played by both Mouse and Keyboard.
 
 ![Drum Kit - 1 Page](https://github.com/jumaed/javascript-projects/blob/master/Images/drum_kit_1.png)
