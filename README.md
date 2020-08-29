@@ -7,6 +7,7 @@ Here are some of my practice JavaScript projects built with HTML5, CSS3 and Java
 This weather app will show the weather information that it will get from the API, an Icon that shows the weather status, the temperature value (18°C) in Celsius unit, the weather description (clear sky), and then the user's city and country (Dhaka, BD).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e0aa879-2685-4300-89e8-024cc27a9dca/deploy-status)](https://app.netlify.com/sites/jumaed-js-weather-app/deploys)
+
 Live Site: https://jumaed-js-weather-app.netlify.app/
 
 ![Weather App Page](https://i.ibb.co/Jvys0rV/javascript-weather-app-1.png)
